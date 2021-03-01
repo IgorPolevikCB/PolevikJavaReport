@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "LWork4OOP-Polevik32"
